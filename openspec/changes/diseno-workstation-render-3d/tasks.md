@@ -16,8 +16,8 @@
 
 ## 3. Integración, Presupuesto y Prueba de Fuego Técnica
 
-- [ ] 3.1 Fusionar las especificaciones de ambos subsistemas, verificando la ausencia de conflictos de espacio (RAM vs Radiador, GPU vs Chasis/Cables) y congruencia de conectores eléctricos
-- [ ] 3.2 Elaborar la propuesta económica y presupuesto desglosado con precios de mercado con IVA en `docs/presupuesto-detallado.md`
+- [x] 3.1 Fusionar las especificaciones de ambos subsistemas, verificando la ausencia de conflictos de espacio (RAM vs Radiador, GPU vs Chasis/Cables) y congruencia de conectores eléctricos
+- [x] 3.2 Elaborar la propuesta económica y presupuesto desglosado con precios de mercado con IVA en `docs/presupuesto-detallado.md`
 - [ ] 3.3 Realizar la validación técnica "Prueba de Fuego" y análisis de benchmarks (Blender, Cinebench, DaVinci, V-Ray, 3DMark) en `docs/validacion-prueba-fuego-benchmarks.md`
 - [ ] 3.4 Redactar las respuestas justificadas a las preguntas finales del ejercicio en `docs/respuestas-preguntas-finales.md`
 
