@@ -2,10 +2,10 @@
 
 ## 1. Subsistema de Proceso y Energía (Responsabilidad: Alumno A)
 
-- [ ] 1.1 Investigar y validar la compatibilidad física y de socket de la CPU AMD Ryzen 9 7950X con la placa ASUS TUF Gaming B650-PLUS WIFI, verificando las fases VRM (12+2 @ 60A) para soportar 230W continuos
-- [ ] 1.2 Definir la configuración de memoria RAM (Corsair Vengeance 64 GB DDR5 6000MHz CL30 EXPO), comprobando compatibilidad en la lista QVL de la placa y altura de módulos (35 mm) frente al espacio disponible
-- [ ] 1.3 Calcular los requerimientos eléctricos detallados, balance de raíles de +12V (70.8A) y seleccionar la fuente Corsair RM850x SHIFT ATX 3.0 con conector nativo 12V-2x6 PCIe 5.0, verificando la absorción de transitorios
-- [ ] 1.4 Documentar el informe técnico del Subsistema de Proceso y Energía en `docs/subsistema-proceso-energia.md`
+- [x] 1.1 Investigar y validar la compatibilidad física y de socket de la CPU AMD Ryzen 9 7950X con la placa ASUS TUF Gaming B650-PLUS WIFI, verificando las fases VRM (12+2 @ 60A) para soportar 230W continuos
+- [x] 1.2 Definir la configuración de memoria RAM (Corsair Vengeance 64 GB DDR5 6000MHz CL30 EXPO), comprobando compatibilidad en la lista QVL de la placa y altura de módulos (35 mm) frente al espacio disponible
+- [x] 1.3 Calcular los requerimientos eléctricos detallados, balance de raíles de +12V (70.8A) y seleccionar la fuente Corsair RM850x SHIFT ATX 3.0 con conector nativo 12V-2x6 PCIe 5.0, verificando la absorción de transitorios
+- [x] 1.4 Documentar el informe técnico del Subsistema de Proceso y Energía en `docs/subsistema-proceso-energia.md`
 
 ## 2. Subsistema de Gráficos, Almacenamiento y Chasis (Responsabilidad: Alumno B)
 
