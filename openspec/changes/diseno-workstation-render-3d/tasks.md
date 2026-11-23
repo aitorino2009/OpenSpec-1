@@ -9,10 +9,10 @@
 
 ## 2. Subsistema de Gráficos, Almacenamiento y Chasis (Responsabilidad: Alumno B)
 
-- [ ] 2.1 Seleccionar y validar las dimensiones físicas de la GPU NVIDIA GeForce RTX 4080 SUPER (longitud 304-340 mm, grosor 3.2 slots) frente a las bahías y clearances de la caja
-- [ ] 2.2 Diseñar la arquitectura de almacenamiento dual NVMe (Samsung 990 Pro 1 TB para SO y Kingston KC3000 2 TB para proyectos/render scratch), comprobando disipación térmica M.2 y líneas PCIe asignadas
-- [ ] 2.3 Validar el chasis Fractal Design Meshify 2 y el sistema de refrigeración líquida AIO Arctic Liquid Freezer III 360 mm, comprobando clearances en panel superior (despeje >65 mm) y flujo de aire con presión positiva
-- [ ] 2.4 Documentar el informe técnico del Subsistema de Gráficos, Almacenamiento y Chasis en `docs/subsistema-graficos-chasis.md`
+- [x] 2.1 Seleccionar y validar las dimensiones físicas de la GPU NVIDIA GeForce RTX 4080 SUPER (longitud 304-340 mm, grosor 3.2 slots) frente a las bahías y clearances de la caja
+- [x] 2.2 Diseñar la arquitectura de almacenamiento dual NVMe (Samsung 990 Pro 1 TB para SO y Kingston KC3000 2 TB para proyectos/render scratch), comprobando disipación térmica M.2 y líneas PCIe asignadas
+- [x] 2.3 Validar el chasis Fractal Design Meshify 2 y el sistema de refrigeración líquida AIO Arctic Liquid Freezer III 360 mm, comprobando clearances en panel superior (despeje >65 mm) y flujo de aire con presión positiva
+- [x] 2.4 Documentar el informe técnico del Subsistema de Gráficos, Almacenamiento y Chasis en `docs/subsistema-graficos-chasis.md`
 
 ## 3. Integración, Presupuesto y Prueba de Fuego Técnica
 
